@@ -1,7 +1,8 @@
 # BottlePlayingRobot
-Arduino code for my garbage wine bottle playing machine.
+Arduino code for my garbage wine bottle playing machine. The .ino file is for the arduino. I used an Arduino Uno. The .FCStd is for FreeCAD. I used version 0.20.2
 
-Check out the accompanying video: [https://studio.youtube.com/video/ByjY7Y63W9s/edit](https://www.youtube.com/watch?v=ByjY7Y63W9s)https://www.youtube.com/watch?v=ByjY7Y63W9s
+Check out the accompanying video: https://studio.youtube.com/video/ByjY7Y63W9s
+
 
 Used application to convert midi to arduino: https://github.com/LenShustek/miditones
 
@@ -10,6 +11,9 @@ Lookup table for MIDI notes: https://www.inspiredacoustics.com/en/MIDI_note_numb
 Laser cutter templates: https://www.festi.info/boxes.py/
 
 Ableton DAW: www.ableton.com
+
+FreeCAD: www.freecad.org/
+
 
 Parts list:
 

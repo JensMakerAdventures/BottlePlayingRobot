@@ -7,7 +7,10 @@ Used application to convert midi to arduino: https://github.com/LenShustek/midit
 
 Lookup table for MIDI notes: https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
 
+Laser cutter templates: https://www.festi.info/boxes.py/
+
 Parts list:
+
 Volume slider: https://www.aliexpress.us/item/1005005434366252.html?spm=a2g0o.order_list.order_list_main.48.259b1802xaA5uH&gatewayAdapt=4itemAdapt
 
 Push buttons: https://www.aliexpress.us/item/3256801281874877.html?spm=a2g0o.order_list.order_list_main.53.259b1802xaA5uH&gatewayAdapt=glo2usa4itemAdapt

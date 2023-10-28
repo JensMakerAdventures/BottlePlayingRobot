@@ -9,6 +9,8 @@ Lookup table for MIDI notes: https://www.inspiredacoustics.com/en/MIDI_note_numb
 
 Laser cutter templates: https://www.festi.info/boxes.py/
 
+Ableton DAW: www.ableton.com
+
 Parts list:
 
 Volume slider: https://www.aliexpress.us/item/1005005434366252.html?spm=a2g0o.order_list.order_list_main.48.259b1802xaA5uH&gatewayAdapt=4itemAdapt

@@ -1,5 +1,5 @@
 # BottlePlayingRobot
-Arduino code for my garbage wine bottle playing machine. The .ino file is for the arduino. I used an Arduino Uno. The .FCStd is for FreeCAD. I used version 0.20.2
+Arduino code and model files for my garbage wine bottle playing machine. The .ino file is for the arduino. I used an Arduino Uno. The .FCStd is for FreeCAD. I used version 0.20.2
 
 Check out the accompanying video: https://studio.youtube.com/video/ByjY7Y63W9s
 
